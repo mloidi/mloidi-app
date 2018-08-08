@@ -6,7 +6,7 @@
     "MAIL_PASS": "@app_store_MAIL_PASS",
     "MAIL_HOST": "@app_store_MAIL_HOST",
     "MAIL_PORT": "@app_store_MAIL_PORT",
-    "PORT": "@app_store_PORT",
+    "PORT": "@app_store_port",
     "MAP_KEY": "@app_store_MAP_KEY",
     "SECRET": "@app_store_SECRET",
     "KEY": "@app_store_KEY"
