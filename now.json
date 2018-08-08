@@ -1,14 +1,14 @@
 {
   "env": {
-    "NODE_ENV": "app_store_NODE_ENV",
-    "DATABASE": "app_store_DATABASE",
-    "MAIL_USER": "app_store_MAIL_USER",
-    "MAIL_PASS": "app_store_MAIL_PASS",
-    "MAIL_HOST": "app_store_MAIL_HOST",
-    "MAIL_PORT": "app_store_MAIL_PORT",
-    "PORT": "app_store_port",
-    "MAP_KEY": "app_store_MAP_KEY",
-    "SECRET": "app_store_SECRET",
-    "KEY": "app_store_KEY"
+    "NODE_ENV": "@app_store_node_env",
+    "DATABASE": "@app_store_database",
+    "MAIL_USER": "@app_store_mail_user",
+    "MAIL_PASS": "@app_store_mail_pass",
+    "MAIL_HOST": "@app_store_mail_host",
+    "MAIL_PORT": "@app_store_mail_port",
+    "PORT": "@app_store_port",
+    "MAP_KEY": "@app_store_map_key",
+    "SECRET": "@app_store_secret",
+    "KEY": "@app_store_key"
   }
 }
