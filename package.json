@@ -60,6 +60,7 @@
     "now": "^13.1.2",
     "postcss-loader": "3.0.0",
     "sass-loader": "7.1.0",
-    "webpack": "4.28.4"
+    "webpack": "4.28.4",
+    "braces": ">=2.3.1"
   }
 }
