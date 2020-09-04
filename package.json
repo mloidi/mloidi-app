@@ -61,6 +61,7 @@
     "postcss-loader": "3.0.0",
     "sass-loader": "10.0.2",
     "webpack": "4.44.1",
-    "braces": ">=3.0.2"
+    "braces": ">=3.0.2",
+    "minimist": ">=0.2.1"
   }
 }
